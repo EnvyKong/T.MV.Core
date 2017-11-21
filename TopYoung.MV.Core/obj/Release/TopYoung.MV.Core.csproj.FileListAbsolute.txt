@@ -1,0 +1,5 @@
+D:\JX-Work\TopYoung.MV.Core\TopYoung.MV.Core\bin\Release\TopYoung.MV.Core.dll
+D:\JX-Work\TopYoung.MV.Core\TopYoung.MV.Core\bin\Release\TopYoung.MV.Core.pdb
+D:\JX-Work\TopYoung.MV.Core\TopYoung.MV.Core\obj\Release\TopYoung.MV.Core.csproj.CoreCompileInputs.cache
+D:\JX-Work\TopYoung.MV.Core\TopYoung.MV.Core\obj\Release\TopYoung.MV.Core.dll
+D:\JX-Work\TopYoung.MV.Core\TopYoung.MV.Core\obj\Release\TopYoung.MV.Core.pdb
